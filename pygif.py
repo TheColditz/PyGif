@@ -30,7 +30,7 @@ while True:
 
     elif event == 'Remove':
         images.remove(values['image_list'][0])
-        window.FindElement('image_list').Update(images)
+        window["image_list"].Update(images)
 
     elif event == 'Create Animated GIF':
         try:
