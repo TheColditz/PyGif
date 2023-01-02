@@ -1,3 +1,7 @@
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ColditzColligula/PyGif?style=plastic)
+![GitHub all releases](https://img.shields.io/github/downloads/ColditzColligula/PyGif/total)
+![GitHub](https://img.shields.io/github/license/ColditzColligula/PyGif)
+
 # PyGif
 A small and lightweight GUI Application to turn images into animated gifs.
 
